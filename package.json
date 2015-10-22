@@ -1,0 +1,19 @@
+{
+  "name": "miles-dickinson",
+  "version": "1.0.0",
+  "description": "Digital Business card for Miles Dickinson",
+  "scripts": {
+    "serve": "http-server -p 9090",
+    "livereload": "live-reload --port 9091 ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MilesHD/mileshd.github.io.git"
+  },
+  "author": "Miles Dickinson",
+  "homepage": "https://github.com/MilesHD/mileshd.github.io",
+  "devDependencies": {
+    "http-server": "^0.8.5",
+    "live-reload": "^1.1.0"
+  }
+}

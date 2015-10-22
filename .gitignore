@@ -1,0 +1,5 @@
+.sass-cache
+node_modules
+*.swo
+*.swp
+assets/css/source_main_reference.css
