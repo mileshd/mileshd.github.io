@@ -177,6 +177,7 @@ h1 {
 
 h2 {
     font-size: 1.25em;
+    margin-bottom: 1em;
 }
 
 h3 {
@@ -197,15 +198,11 @@ h6 {
 
 @media screen and (max-width: 480px) {
 
-    h1, h3 {
+    h1, h2 {
         text-align: center;
     }
     h1 {
         font-size: 1.85em;
-    }
-
-    h3 {
-        font-size: 1.25em;
     }
 
 }
