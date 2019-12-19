@@ -3,3 +3,4 @@ node_modules
 *.swo
 *.swp
 assets/css/source_main_reference.css
+.DS_Store
