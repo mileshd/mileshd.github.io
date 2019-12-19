@@ -500,3 +500,7 @@ dl dd {
 #footer .copyright li:first-child {
     border-left: 0;
 }
+
+.links {
+  margin-left: 10px;
+}
